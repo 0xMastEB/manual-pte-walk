@@ -1,5 +1,0 @@
-﻿  Building 'HelloKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
-  Stamping x64\Debug\HelloKernel.inf
-  Stamping [Version] section with DriverVer=03/17/2026,17.2.32.677
-  main.c
-C:\Users\menchia\Desktop\Portatile\HelloKernel\main.c(6,1): error C1004: unexpected end-of-file found
